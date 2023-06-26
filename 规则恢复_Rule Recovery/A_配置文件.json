@@ -1,0 +1,42 @@
+{
+  "root": {
+    "Documents": {
+      "Projects": {
+        "Python": {
+          "Scripts": {},
+          "Notebooks": {}
+        },
+        "Web": {
+          "HTML": {},
+          "CSS": {},
+          "JavaScript": {}
+        }
+      },
+      "Reports": {
+        "Quarterly": {},
+        "Annual": {}
+      },
+      "Personal": {
+        "Photos": {
+          "Vacation": {},
+          "Family": {}
+        },
+        "Videos": {
+          "Travel": {},
+          "Events": {}
+        }
+      }
+    },
+    "Downloads": {
+      "Images": {},
+      "Videos": {
+        "Movies": {},
+        "TV Shows": {}
+      },
+      "Documents": {
+        "PDFs": {},
+        "Presentations": {}
+      }
+    }
+  }
+}
