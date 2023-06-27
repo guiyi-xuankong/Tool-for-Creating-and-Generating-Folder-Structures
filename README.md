@@ -1,6 +1,6 @@
 <h1>规则备份:</h1>
 
-这段代码主要用于生成（备份）指定文件夹及其子文件夹的文件夹结构规则，并将其保存到相应的文件中。下面是这段代码的运用到的知识和运行顺序的解释：
+这段代码主要用于生成（备份）指定文件夹及其子文件夹的文件夹结构规则，并将其保存到相应的文件中。下面是这段代码的运用到的知识和运行顺序的解释:
 
 1. 代码使用了 `run_as_admin()` 函数，用于检查并以管理员权限运行脚本。这样可以确保在需要访问受限资源时获得足够的权限。
 
@@ -26,7 +26,7 @@
 
 整个代码的运行顺序是按照上述解释的步骤依次执行，确保生成指定文件夹的结构规则并保存到相应的文件中。代码中使用了递归的思想，通过遍历文件夹的层级关系，生成整个文件夹结构的规则。同时，代码还考虑了权限问题，并以管理员权限运行脚本，以确保能够访问受限资源。
 
-规则恢复:
+<h1>规则恢复:</h1>
 
 这段代码主要用于生成指定文件夹及其子文件夹的文件夹结构规则，并将其保存到相应的文件中。下面是对这段代码的详细解释：
 
@@ -56,7 +56,7 @@
 
 整个代码的运行顺序按照上述解释的步骤依次执行，以生成指定文件夹的结构规则并保存到相应的文件中。代码中还包括了日志记录功能，以便在程序运行过程中记录相关信息。
 
-Rule Backup:
+<h1>Rule Backup:</h1>
 
 This code is mainly used to generate (backup) the folder structure rules for the specified folder and its subfolders, and save them to the corresponding file. The following is an explanation of the knowledge used in this code and the order in which it is run:
 
@@ -84,7 +84,7 @@ This code is mainly used to generate (backup) the folder structure rules for the
 
 The entire code is run in the order of the steps explained above, ensuring that the structure rules for the specified folder are generated and saved to the corresponding file. The code uses the idea of recursion to generate rules for the entire folder structure by traversing the hierarchy of folders. Also, the code considers permissions and runs the script with administrator privileges to ensure that restricted resources can be accessed.
 
-Rule Recovery:
+<h1>Rule Recovery:</h1>
 
 This code is mainly used to generate folder structure rules for the specified folder and its subfolders and save them to the corresponding file. The following is a detailed explanation of this code:
 
